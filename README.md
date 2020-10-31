@@ -7,7 +7,7 @@ File list:
 
 Link:
 - Github: [https://github.com/thanhhungqb/latex-beamer-theme-cnu](https://github.com/thanhhungqb/latex-beamer-theme-cnu)
-- Overleaf: []()
+- Overleaf (read-only): [https://www.overleaf.com/read/qdnxjnvyrvfj](https://www.overleaf.com/read/qdnxjnvyrvfj)
  
 Example in [sample.tex](sample.tex).
 
