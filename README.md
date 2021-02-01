@@ -1,18 +1,17 @@
-# Beamer Theme CNU
+# CNU Beamer Theme
 A Latex beamer theme with Chonnam National University style.
 
 File list:
 - [beamerthemeCNU.sty](beamerthemeCNU.sty): theme file
 - [main-logo.png](main-logo.png) and [small-logo.png](small-logo.png): logos
+- [sample.tex](sample.tex): an example
+- README.md: theme introduction
 
-Link:
+How to use:
 - Github: [https://github.com/thanhhungqb/latex-beamer-theme-cnu](https://github.com/thanhhungqb/latex-beamer-theme-cnu)
-- Overleaf (read-only): [https://www.overleaf.com/read/qdnxjnvyrvfj](https://www.overleaf.com/read/qdnxjnvyrvfj)
+- Overleaf template: [https://www.overleaf.com/latex/templates/cnu-beamer-theme/vwstkpbrybrm](https://www.overleaf.com/latex/templates/cnu-beamer-theme/vwstkpbrybrm)
+- [Register](https://www.overleaf.com?r=2f24873e&rm=d&rs=b) for Overleaf (if you don't have one). Upload file download from github to start working.
  
-Example in [sample.tex](sample.tex), [online](https://www.overleaf.com/read/qdnxjnvyrvfj).
-
 This theme is provided 'as-is' WITHOUT any WARRANTY or SUPPORT. Using this script is at YOUR OWN RISK.
 
 Any contributions are welcome.
-
- 
